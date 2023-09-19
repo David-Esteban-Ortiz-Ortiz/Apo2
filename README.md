@@ -1,6 +1,6 @@
 ![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png)
 
-# Titulo del Proyecto
+# APO 2 Manejo de funciones
 
 Un párrafo de la descripción del proyecto va aquí.
 
