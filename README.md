@@ -2,11 +2,18 @@
 
 # APO 2 Manejo de funciones
 
-Un párrafo de la descripción del proyecto va aquí.
+Aqui podras encontrar una gran variedad de codigos para poder usarse en la clase de Algoritmos y programación 2.
 
-## Empezando
+## Resolución de problemas por computador.
 
-Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
+Pasos:
+1. Conocer el problema.
+2. Análisis profundo del tema.
+3. Diseño del problema.
+4. Prueba de la solción del problema.
+5. Codificación.
+6. Compilación y ejecución.
+7. Verificación y depuración.
 
 ### Requisitos previos
 
