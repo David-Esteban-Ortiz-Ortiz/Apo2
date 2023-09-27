@@ -14,10 +14,81 @@ Pasos:
 5. Codificación.
 6. Compilación y ejecución.
 7. Verificación y depuración.
+### ¿Como se puede recibir datos de una manera externa?
+Para esto se debe usar el siguiente algoritmo
+```
+Scanner sc=new Scanner (System.in);
+[tipo]x=sc.
+```
+Para ingresar por teclado un dato se usa la formula anterior.
+```
+Scanner sc=new Scanner (System.in);
+[int]distancia1=sc.
+float t=sc.nextFloat();
+```
+Cuando (nextFloat) es String se coloca o reemplaza por:
+```
+Scanner sc=new Scanner (System.in);
+[String]texto=sc.
+String t=sc.nextLine();
+```
+### Condicionales.
+## If (si).
+Este es un condicional muy necesario para estructurar nuestros codigos, su estructura es la siguieente:
+```
+if (condicion){
+         instrucciones si verdadero
+}
+else if (condicion){
+}
+else{
+}
+```
+Un ejemplo de commo usar el if es de la siguiente forma:
+```
+edad=20;
 
-### Menu con System.out.print
+if (edad>=18){
+         System.out.print("mayor")
+}
+else{
+         System.out.print("menor")
+}
+```
+Es muy importante tener en cuenta que para que se importe la libreria para el Scanner se escribe al principio de todo lo siguiente:
+```
+import java.util.Scanner;
+```
+### Switch
+El condicional Switch que evalua más de un solo caso y sigue la siguiente estructura:
+```
+while(condicion){
+      instruccioines;
+}
+```
+### For
+El condicional For permite reallizar una acción hasta qeu se cumpla una condición previamente definida y sigue la siguiente estructura:
+```
+for(variable control; condición; incremente/decremento){
+       instrucciones
+}
+```
+Un ejemplo de incremento en for es el siguiente:
+```
+for(int i=0; i<=9; i++){
+      instrucciones
+}
+```
+Un ejemplo de decremento en for es el siguiente:
+```
+for(int i=9; i>=0; i--){
+      instrucciones
+}
+```
 
-En este menu se ven incluidas las tecnicas como el switch y el while 
+### ¿Como puedo hacer un menu con Scanner?
+
+Este menu es facil de realizar el cual se ven incluidas las tecnicas como el switch y el while 
 
 ```
 import java.util.Scanner;
@@ -281,7 +352,7 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 ## Autores
 
-* **Gustavo Sánchez** 
+* **David Esteban Ortiz Ortiz** 
 
 
 ## Licencia
