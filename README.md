@@ -3,7 +3,7 @@
 # APO 2 Manejo de funciones
 
 Aqui podras encontrar una gran variedad de codigos para poder usarse en la clase de Algoritmos y programación 2.
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aulafacil.com%2Fcursos%2Fprogramacion%2Fjava-basico%2Fsentencias-if-2-l13523&psig=AOvVaw3blA8t_VIcIPG1dlI8-VES&ust=1697239003798000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDDvpHS8YEDFQAAAAAdAAAAABAJ)
+
 
 ## Resolución de problemas por computador.
 
@@ -15,6 +15,7 @@ Pasos:
 5. Codificación.
 6. Compilación y ejecución.
 7. Verificación y depuración.
+ ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aulafacil.com%2Fcursos%2Fprogramacion%2Fjava-basico%2Fsentencias-if-2-l13523&psig=AOvVaw3blA8t_VIcIPG1dlI8-VES&ust=1697239003798000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDDvpHS8YEDFQAAAAAdAAAAABAJ)
 ### ¿Como se puede recibir datos de una manera externa?
 Para esto se debe usar el siguiente algoritmo
 ```
