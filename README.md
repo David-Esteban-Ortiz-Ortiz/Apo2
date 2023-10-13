@@ -319,15 +319,11 @@ Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para u
 
 ## Calculo factorial
 
-Explicar cómo ejecutar las pruebas automatizadas para este sistema.
+Se necesita crear un programa en Java que permita al usuario calcular el factorial de un número entero positivo. Utiliza condicionales, ciclos y funciones para lograrlo.
 
-### Dividir en pruebas de principio a fin
+## Empezando
 
-Explique qué prueban estas pruebas y por qué.
-
-```
-Give an example
-```
+Se rea una función llamada calcularFactorial que tome un número entero positivo como parámetro y devuelva su factorial.
 
 ### Y pruebas de estilo de codificación.
 
