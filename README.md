@@ -317,7 +317,7 @@ until finished
 
 Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para una pequeña demostración.
 
-## Ejecutando las pruebas
+## Calculo factorial
 
 Explicar cómo ejecutar las pruebas automatizadas para este sistema.
 
