@@ -16,7 +16,7 @@ Pasos:
 6. Compilación y ejecución.
 7. Verificación y depuración.
 ## ¿Porque es inmportante aprender a programar?
-
+Es importante aprender a programar, para poder solucionar problemas, esto más se usa en la carrera de ingenieria de sistemas, ademas qeu es muy util para la vida, ya que te hace las soluciones mucho más faciles.
 
 ### ¿Como se puede recibir datos de una manera externa?
 Para esto se debe usar el siguiente algoritmo
