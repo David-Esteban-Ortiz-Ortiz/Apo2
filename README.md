@@ -52,6 +52,11 @@ Cuando el dato que se recibe es de tipo entero(int) nada más se digita:
 ```
 entero=Integer.parseInt(JOptionPane.showInputDialog("texto"));
 ```
+Cuando el dato que se recibe es de tipo double nada más se digita:
+```
+decimal=Double.parseDouble(JOptionPane.showInputDialog("texto"));
+```
+
 ### Condicionales.
 ## If (si).
 Este es un condicional muy necesario para estructurar nuestros codigos, su estructura es la siguieente:
