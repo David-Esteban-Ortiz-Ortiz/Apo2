@@ -39,6 +39,9 @@ Scanner sc=new Scanner (System.in);
 [String]texto=sc.
 String t=sc.nextLine();
 ```
+### JOptionPane.
+El JOptionPane nos sirve para poder recibir datos de manera externa, pero con una interfaz mucho más formal, ya que los datos que ingresa el usuario se lo recibe a partir de una ventana más creativa, y lo cual lo hace más accesible y llamativa de usar.
+
 ### Condicionales.
 ## If (si).
 Este es un condicional muy necesario para estructurar nuestros codigos, su estructura es la siguieente:
