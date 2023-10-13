@@ -19,6 +19,8 @@ Pasos:
 Es importante aprender a programar, para poder solucionar problemas, esto más se usa en la carrera de ingenieria de sistemas, ademas qeu es muy util para la vida, ya que te hace las soluciones mucho más faciles.
 
 ### ¿Como se puede recibir datos de una manera externa?
+Para recibir datos de manera externa se puede usar el Scanner o tambien el JOptionPane.
+
 Para esto se debe usar el siguiente algoritmo
 ```
 Scanner sc=new Scanner (System.in);
