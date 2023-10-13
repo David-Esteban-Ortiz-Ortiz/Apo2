@@ -372,6 +372,18 @@ JOptionPane.showMessageDialog(null, "Debes escoger solo entre 1 y 2.");
  }
 ```
 
+### Prueba para digitar si quiere continuar o quiere salir del programa.
+
+para este ejemplo se necesita aplicar un mensaje donde se pueda digitar entre el numero uno (que es para continuar con otro numero factorial) y numero 2 (sirve para salir del programa)
+
+```
+  num = Integer.parseInt(JOptionPane.showInputDialog(null, "¿Qué número deseas digitar?\n1. Continuar\n2. Salir"));
+        }
+
+JOptionPane.showMessageDialog(null, "¡Hasta luego!");
+    }
+```
+
 
 ## Construido con
 
