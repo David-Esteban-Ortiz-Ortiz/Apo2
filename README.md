@@ -61,6 +61,10 @@ Cuando el dato que se recibe es de tipo float se digita:
 ```
 flotante=Float.parseFloat(JOptionPane.showInputDialog("texto"));
 ```
+Para poder mostrar los datos que hemos pedido se digiten se escribe el siguiente código:
+```
+JOptionPane.showInputDialog(null,"texto", +cadena);
+```
 
 ### Condicionales.
 ## If (si).
