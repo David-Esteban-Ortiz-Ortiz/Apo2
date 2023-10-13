@@ -418,7 +418,7 @@ control de verion del programa eclipse es de 2023-09 (4.29)​ (info) ( 12 de se
 ## Autores
 
 * **David Esteban Ortiz Ortiz** 
-
+* **Sebastian Moreno** 
 
 ## Licencia
 
