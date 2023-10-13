@@ -412,7 +412,8 @@ eclipse - enlanzado con java.
 
 ## Versionado
 
-Usamos Git para el control de versiones. Para conocer las versiones disponibles, consulte las etiquetas en este repositorio .
+control de verion del programa eclipse es de 2023-09 (4.29)​ (info) ( 12 de septiembre de 2023)
+
 
 ## Autores
 
