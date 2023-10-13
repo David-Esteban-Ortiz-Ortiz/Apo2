@@ -422,10 +422,14 @@ control de verion del programa eclipse es de 2023-09 (4.29)​ (info) ( 12 de se
 
 ## Licencia
 
-Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener más detalles.
+La Licencia Pública de Eclipse está diseñado para ser una licencia de software favorable a los negocios y cuenta con disposiciones más débiles que las licencias copyleft contemporáneas, como la Licencia Pública General de GNU (GPL). El receptor de programas licenciados EPL pueden utilizar, modificar, copiar y distribuir el trabajo y las versiones modificadas, en algunos casos están obligados a liberar sus propios cambios.
 
 ## Expresiones de gratitud (Acknowledgments)
 
+1.
 * Un consejo para cualquiera cuyo código se haya utilizado
 * Inspiración
 * etc
+2.
+* un buen proyecto para aprender las funciones con el tema a la programacion
+* Inspirado de un taller educativo de apo 2.
