@@ -383,6 +383,22 @@ para este ejemplo se necesita aplicar un mensaje donde se pueda digitar entre el
 JOptionPane.showMessageDialog(null, "¡Hasta luego!");
     }
 ```
+## Metodo funcional
+
+como se conocio anteriormente, para este codigo se necesita de un metodo llamado funciones que sirve para desplegar todo el codigo y ejecutar el numero factorial.
+
+```
+}
+		public static int fac (int j) {
+			int res = 1;
+			for (int i = 1; i<=j; i++) {
+				res = res*i; 
+			}
+			return res;
+		
+   }
+}
+```
 
 
 ## Construido con
