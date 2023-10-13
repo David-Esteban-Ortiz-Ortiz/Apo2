@@ -56,6 +56,11 @@ Cuando el dato que se recibe es de tipo double nada más se digita:
 ```
 decimal=Double.parseDouble(JOptionPane.showInputDialog("texto"));
 ```
+Cuando el dato que se recibe es de tipo float se digita:
+
+```
+flotante=Float.parseFloat(JOptionPane.showInputDialog("texto"));
+```
 
 ### Condicionales.
 ## If (si).
