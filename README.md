@@ -21,7 +21,8 @@ Es importante aprender a programar, para poder solucionar problemas, esto más s
 ### ¿Como se puede recibir datos de una manera externa?
 Para recibir datos de manera externa se puede usar el Scanner o tambien el JOptionPane.
 
-Para esto se debe usar el siguiente algoritmo
+### Scanner.
+El scanner se lo usa para recibir datos de manera externa, y su estructura es la siguiente:
 ```
 Scanner sc=new Scanner (System.in);
 [tipo]x=sc.
