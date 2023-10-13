@@ -342,9 +342,35 @@ examples
 				res = res*i; 
 ```
 
-## Despliegue (Deployment)
+### Instalación
 
-Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
+Se toma un número entero positivo como parámetro y devuelva
+su factorial y en el programa principal, utiliza un bucle para permitir que el usuario realice múltiples cálculos de factoriales.
+Solicita al usuario que ingrese un número entero positivo y garantice que la entrada sea válida.
+Utiliza la función calcularFactorial para calcular el factorial del número ingresado.
+
+```
+int num = 1;
+while (num != 2) {
+            if (num == 1) {
+                int j = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingrese un numero", "NUMERO FACTORIAL", 3));
+
+                if (j > 0) {
+                    int res1 = fac(j);
+                    JOptionPane.showMessageDialog(null, "El factorial de " + j + " es " + res1);
+                }
+else {
+ JOptionPane.showMessageDialog(null, "El número está fuera de alcance. Ingresa un número positivo.");
+}
+```
+
+Para saber si un numero esta fuera del rango entre 1 y 2 se aplica un mensaje que diga que realmente se debe escoger entre esos dos numeros.
+
+```
+else {
+JOptionPane.showMessageDialog(null, "Debes escoger solo entre 1 y 2.");
+ }
+```
 
 
 ## Construido con
