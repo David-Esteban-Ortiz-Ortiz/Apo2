@@ -407,6 +407,9 @@ Dropwizard : el marco web utilizado
 Maven - Gestión de dependencias
 ROMA : se utiliza para generar canales RSS
 
+java : lenguaje de codigo utilizado para programacion.
+eclipse - enlanzado con java.
+
 ## Versionado
 
 Usamos Git para el control de versiones. Para conocer las versiones disponibles, consulte las etiquetas en este repositorio .
