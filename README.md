@@ -42,6 +42,12 @@ String t=sc.nextLine();
 ### JOptionPane.
 El JOptionPane nos sirve para poder recibir datos de manera externa, pero con una interfaz mucho más formal, ya que los datos que ingresa el usuario se lo recibe a partir de una ventana más creativa, y lo cual lo hace más accesible y llamativa de usar.
 
+Cuando el dato que se ingresa es de tipo String nada más se digita:
+```
+cadena=JOptionPane.showInputDialog("texto");
+```
+teniendo en cuenta que el dato que ingresa en este ejemplo es cadena.
+
 ### Condicionales.
 ## If (si).
 Este es un condicional muy necesario para estructurar nuestros codigos, su estructura es la siguieente:
