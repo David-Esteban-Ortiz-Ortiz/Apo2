@@ -325,12 +325,21 @@ Se necesita crear un programa en Java que permita al usuario calcular el factori
 
 Se rea una función llamada calcularFactorial que tome un número entero positivo como parámetro y devuelva su factorial.
 
-### Y pruebas de estilo de codificación.
+### Requisitos previos.
 
-Explique qué prueban estas pruebas y por qué.
+1. Uso de JOption Pane para ingreso y muestra de datos
+2. Cumplimiento de los requisitos funcionales
+
 
 ```
-Give an example
+examples
+  1. int j = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingrese un numero", "NUMERO FACTORIAL", 3));
+
+
+2.  public static int fac (int j) {
+			int res = 1;
+			for (int i = 1; i<=j; i++) {
+				res = res*i; 
 ```
 
 ## Despliegue (Deployment)
