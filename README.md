@@ -48,6 +48,10 @@ cadena=JOptionPane.showInputDialog("texto");
 ```
 teniendo en cuenta que el dato que ingresa en este ejemplo es cadena.
 
+Cuando el dato que se recibe es de tipo entero(int) nada más se digita:
+```
+entero=Integer.parseInt(JOptionPane.showInputDialog("texto"));
+```
 ### Condicionales.
 ## If (si).
 Este es un condicional muy necesario para estructurar nuestros codigos, su estructura es la siguieente:
