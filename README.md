@@ -319,7 +319,38 @@ Termine con un ejemplo de cómo sacar algunos datos del sistema o usarlos para u
 
 ## Ejecutando las pruebas
 
-Explicar cómo ejecutar las pruebas automatizadas para este sistema.
+código Java en Eclipse que calcula el promedio de una lista de números utilizando contenedoras (ArrayList). Asegúrate de tener Eclipse instalado y configurado correctamente para ejecutar Java.
+
+import java.util.ArrayList;
+
+public class CalculoPromedio {
+
+    public static void main(String[] args) {
+        ArrayList<Double> numeros = new ArrayList<Double>();
+        numeros.add(5.5);
+        numeros.add(10.0);
+        numeros.add(7.2);
+        numeros.add(3.7);
+        
+        double promedio = calcularPromedio(numeros);
+        
+        System.out.println("Los números ingresados son: " + numeros);
+        System.out.println("El promedio es: " + promedio);
+    }
+
+    public static double calcularPromedio(ArrayList<Double> numeros) {
+        if (numeros.isEmpty()) {
+            return 0.0;
+        }
+        
+        double suma = 0.0;
+        for (Double numero : numeros) {
+            suma += numero;
+        }
+        
+        return suma / numeros.size();
+    }
+}
 
 ### Dividir en pruebas de principio a fin
 
