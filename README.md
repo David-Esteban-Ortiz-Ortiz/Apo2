@@ -418,9 +418,28 @@ public class AdivinaElNumero {
 
 ```
 
-## Despliegue (Deployment)
+### Manejo de Matricez
 
-Agregue notas adicionales sobre cómo implementar esto en un sistema en vivo
+Este programa crea una matriz de números y encuentra el valor máximo.
+
+```
+public class MayorEnArray {
+    public static void main(String[] args) {
+        int[] numeros = { 23, 45, 12, 67, 8, 92, 51 };
+        int maximo = numeros[0];
+
+        for (int i = 1; i < numeros.length; i++) {
+            if (numeros[i] > maximo) {
+                maximo = numeros[i];
+            }
+        }
+
+        System.out.println("El valor máximo en la matriz es: " + maximo);
+    }
+}
+
+
+```
 
 
 ## Construido con
