@@ -488,6 +488,38 @@ public class CalculadoraSimple {
 Este programa permite al usuario realizar cálculos matemáticos básicos.
 
 ```
+
+### Gestion de empleados
+
+Este programa utiliza clases y objetos para gestionar una lista de empleados.
+
+```
+class Empleado {
+    String nombre;
+    int salario;
+
+    public Empleado(String nombre, int salario) {
+        this.nombre = nombre;
+        this.salario = salario;
+    }
+}
+
+public class GestionEmpleados {
+    public static void main(String[] args) {
+        Empleado[] empleados = new Empleado[3];
+        empleados[0] = new Empleado("Juan", 30000);
+        empleados[1] = new Empleado("María", 35000);
+        empleados[2] = new Empleado("Pedro", 28000);
+
+        for (Empleado empleado : empleados) {
+            System.out.println("Nombre: " + empleado.nombre + ", Salario: " + empleado.salario);
+        }
+    }
+}
+
+```
+En este programa, se crea una clase Empleado y se utilizan objetos para gestionar una lista de empleados.
+
 ## Construido con
 
 Dropwizard : el marco web utilizado
