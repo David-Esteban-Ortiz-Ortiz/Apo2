@@ -2,7 +2,9 @@
 
 # APO 2 Manejo de funciones
 
-Aqui podras encontrar una gran variedad de codigos para poder usarse en la clase de Algoritmos y programación 2.
+Para entusiastas de la programación de todos los niveles. Nuestra plataforma está diseñada específicamente para aquellos que desean aprender a programar o mejorar sus habilidades existentes de una manera interactiva y colaborativa.
+
+Encontrarás una amplia variedad de recursos y códigos de programación cuidadosamente seleccionados para ayudarte en tu viaje de aprendizaje. Ya sea que seas un principiante que busca entender los conceptos básicos o un programador experimentado que busca explorar nuevas tecnologías, aquí encontrarás lo que necesitas.
 
 
 ## Resolución de problemas por computador.
