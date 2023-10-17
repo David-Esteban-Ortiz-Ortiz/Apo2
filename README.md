@@ -2,7 +2,7 @@
 
 # APO 2 Manejo de funciones
 
-Aqui podras encontrar una gran variedad de codigos para poder usarse en la clase de Algoritmos y programación 2.
+Aqui podras encontrar una gran variedad de codigos para poder usarse en la clase de Algoritmos y programación 2, un trabajo en el cual se pudo trabajar en equipo para crear una pagina la cual ayude a las personas que essten cursando apo 2, y se les facilite el aprendizaje, siendo asi que pueda entender mejor cada uno de los temas de esta clase.
 
 
 ## Resolución de problemas por computador.
@@ -361,6 +361,13 @@ Explique qué prueban estas pruebas y por qué.
 Give an example
 ```
 
+### Y pruebas de estilo de codificación.
+
+Explique qué prueban estas pruebas y por qué.
+
+```
+Give an example
+```
 ### Y pruebas de estilo de codificación.
 
 Explique qué prueban estas pruebas y por qué.
