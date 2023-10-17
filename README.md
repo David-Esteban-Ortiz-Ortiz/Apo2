@@ -379,12 +379,43 @@ public class Factorial {
 
 ```
 
-### Y pruebas de estilo de codificación.
+### Juego de adivina el numero
 
-Explique qué prueban estas pruebas y por qué.
+En este juego, el programa selecciona un número aleatorio y el usuario debe adivinarlo.
 
 ```
-Give an example
+import java.util.Random;
+import java.util.Scanner;
+
+public class AdivinaElNumero {
+    public static void main(String[] args) {
+        Random random = new Random();
+        int numeroAleatorio = random.nextInt(100) + 1;
+        Scanner scanner = new Scanner(System.in);
+
+        int intentos = 0;
+        int intentoUsuario;
+
+        System.out.println("Adivina el número entre 1 y 100.");
+
+        do {
+            System.out.print("Ingresa tu intento: ");
+            intentoUsuario = scanner.nextInt();
+            intentos++;
+
+            if (intentoUsuario < numeroAleatorio) {
+                System.out.println("Demasiado bajo. Intenta de nuevo.");
+            } else if (intentoUsuario > numeroAleatorio) {
+                System.out.println("Demasiado alto. Intenta de nuevo.");
+            } else {
+                System.out.println("¡Adivinaste el número en " + intentos + " intentos!");
+            }
+        } while (intentoUsuario != numeroAleatorio);
+
+        scanner.close();
+    }
+}
+
 ```
 
 ## Despliegue (Deployment)
