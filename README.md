@@ -501,8 +501,14 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 ## Autores
 
 * **David Esteban Ortiz Ortiz** 
+* **Juan David Delgado Muñoz** 
+* **Sebastian Felipe Moreno** 
 
+Desde aplicaciones web dinámicas hasta juegos innovadores y soluciones tecnológicas punteras, aquí es donde los ceros y unos se convierten en tus herramientas para dar vida a tus ideas. ¿Estás listo para desbloquear las puertas de la creatividad digital?
 
+En este rincón del ciberespacio, la programación es más que solo líneas de código; es el lenguaje de la innovación, la puerta de entrada a la creación y la clave para desatar el potencial ilimitado de la tecnología. ¿Listo para ser parte de esta revolución?
+
+Aquí, encontrarás el lienzo en blanco perfecto para tus ambiciones digitales. Desde el primer "Hola, Mundo" hasta proyectos de inteligencia avanzados, esta es la plataforma para soñadores, hacedores y aquellos que nunca se conforman con el "status quo".
 ## Licencia
 
 Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener más detalles.
