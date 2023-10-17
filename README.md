@@ -354,12 +354,29 @@ public class CalculoPromedio {
     }
 }
 
-### Dividir en pruebas de principio a fin
+### Calculo del factorial de un número
 
-Explique qué prueban estas pruebas y por qué.
+Este programa calcula el factorial de un número ingresado por el usuario.
 
 ```
-Give an example
+import java.util.Scanner;
+
+public class Factorial {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Ingresa un número: ");
+        int numero = scanner.nextInt();
+        scanner.close();
+
+        long factorial = 1;
+        for (int i = 1; i <= numero; i++) {
+            factorial *= i;
+        }
+
+        System.out.println("El factorial de " + numero + " es " + factorial);
+    }
+}
+
 ```
 
 ### Y pruebas de estilo de codificación.
