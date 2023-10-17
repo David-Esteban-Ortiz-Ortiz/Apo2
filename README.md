@@ -518,3 +518,9 @@ Este proyecto tiene la licencia MIT; consulte el archivo LICENSE.md para obtener
 * Un consejo para cualquiera cuyo código se haya utilizado
 * Inspiración
 * etc
+## Concejos en la programación 
+* Planifica antes de programar: Antes de comenzar a escribir código, dedica tiempo a planificar tu enfoque y diseñar tu solución. Un buen diseño ahorra tiempo y evita errores costosos más adelante.
+
+* Mantén el código limpio y legible: Escribe código que sea fácil de entender para ti y otros desarrolladores. Usa nombres de variables descriptivos y sigue las convenciones de estilo de tu lenguaje de programación.
+
+* Aprende constantemente: La tecnología y las mejores prácticas en programación evolucionan constantemente. Dedica tiempo a aprender nuevas habilidades y mantener tus conocimientos actualizados para mejorar como programador.
