@@ -441,7 +441,53 @@ public class MayorEnArray {
 
 ```
 
+### Calculadora Simple
 
+Este programa implementa una calculadora que realiza operaciones de suma, resta, multiplicación y división.
+
+```
+import java.util.Scanner;
+
+public class CalculadoraSimple {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Ingresa el primer número: ");
+        double num1 = scanner.nextDouble();
+        System.out.print("Ingresa el operador (+, -, *, /): ");
+        char operador = scanner.next().charAt(0);
+        System.out.print("Ingresa el segundo número: ");
+        double num2 = scanner.nextDouble();
+
+        double resultado;
+
+        switch (operador) {
+            case '+':
+                resultado = num1 + num2;
+                break;
+            case '-':
+                resultado = num1 - num2;
+                break;
+            case '*':
+                resultado = num1 * num2;
+                break;
+            case '/':
+                resultado = num1 / num2;
+                break;
+            default:
+                System.out.println("Operador no válido.");
+                return;
+        }
+
+        System.out.println("Resultado: " + resultado);
+
+        scanner.close();
+    }
+}
+
+Este programa permite al usuario realizar cálculos matemáticos básicos.
+
+```
 ## Construido con
 
 Dropwizard : el marco web utilizado
